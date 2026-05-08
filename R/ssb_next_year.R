@@ -1,6 +1,6 @@
 #' ssb_next_year calculates the survivors at the beginning of the year after your last year in the assessment
 #'
-#' Produces an FLStock that can be used to plot the SSB in the year after your final year. To be used only if harvest.spawn and m.spawn are 0. Note that in the stock summary plot the recruitment assumption will also be shown.
+#' Produces an FLStock that can be used to plot the SSB in the year after your final year. To be used only if harvest.spwn and m.spwn are 0. Note that in the stock summary plot the recruitment assumption will also be shown.
 #'
 #' @param stock An object of class FLStock with the assessment results (no default)
 #' @param rec.years Number of years to use for the geometric mean recruitment assumption (default: 10)

@@ -17,7 +17,7 @@ ssb_next_year(stock, rec.years = 10, biol.years = 3)
 FLStock.
 }
 \description{
-Produces an FLStock that can be used to plot the SSB in the year after your final year. To be used only if harvest.spawn and m.spawn are 0. Note that in the stock summary plot the recruitment assumption will also be shown.
+Produces an FLStock that can be used to plot the SSB in the year after your final year. To be used only if harvest.spwn and m.spwn are 0. Note that in the stock summary plot the recruitment assumption will also be shown.
 }
 \examples{
 data("ple4")
